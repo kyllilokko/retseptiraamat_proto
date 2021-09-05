@@ -210,7 +210,7 @@ footer ul li p {
     }
 .footer-sm {
 
-    width: 64px;
+    width: 32px;
     float: right;
     
     }
@@ -281,4 +281,8 @@ footer ul li p {
             opacity: 1;
             background: rgba(0, 0, 0, 0.5); 
         }
+        .footer-sm {
+
+            width: 64px;
+            }
     }
