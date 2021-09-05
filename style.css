@@ -203,14 +203,14 @@ footer ul li p {
 
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 4vw;
     letter-spacing: 2px;
     color: #172029;
   
     }
 .footer-sm {
 
-    width: 32px;
+    width: 64px;
     float: right;
     
     }
@@ -281,8 +281,8 @@ footer ul li p {
             opacity: 1;
             background: rgba(0, 0, 0, 0.5); 
         }
-        .footer-sm {
-
-            width: 64px;
+        
+        footer ul li p {
+            font-size: 18px;
             }
     }
